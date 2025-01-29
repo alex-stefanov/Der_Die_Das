@@ -18,7 +18,7 @@
 ## 📦 Installation  
 1. Clone the repository:  
 \```bash  
-git clone https://github.com/your-username/Der_Die_Das.git  
+git clone https://github.com/alex-stefanov/Der_Die_Das.git  
 \```  
 2. Install dependencies:  
 \```bash  
